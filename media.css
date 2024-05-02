@@ -1,0 +1,226 @@
+@media screen and (max-width:1255px) {
+    .sectionoverlay{
+        margin-top: 1.5rem;
+    } 
+    .ash{
+        border: none;
+        background-color: #F58F07;
+        font-size: 12px;
+        padding: 8px 15px;
+        border-radius: 20px;
+        color: white;
+        transition: .8s;
+    }
+
+       .img1{
+        height: 1.5rem;
+        width: 4rem;
+    }
+ 
+    
+    .overlay1 h2{
+        font-size: 1rem;
+        font-weight: 700;
+    }
+
+    .overlay1 span{
+        color: #F58F07;
+        font-weight: 700;
+    }
+    .overlay1 span{
+        color: #F58F07;
+        font-weight: 700;
+    }
+    
+    .overlay1 h4{
+        font-size: .8rem;
+        color:#222;
+    }
+    .imgs{
+        padding: 0rem 1rem;
+        display: flex;
+        /* justify-content:center; */
+        align-items: center;
+        column-gap: 1rem;
+    }
+    .heroimg img{
+        margin-top: .9rem;
+        height: 8rem;
+        width: 7rem;
+    }
+    
+    .buts{
+        margin-top: .8rem;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+
+    .btns3{
+        border: none;
+        background-color: #F58F07;
+        font-size: 10px;
+        /* border: 1px solid rgb(255, 255, 255); */
+        padding: 8px 15px;
+        border-radius: 20px;
+        color: rgb(255, 255, 255);
+        transition: .8s;
+       }
+/* ---------section 4------------- */
+
+.boxs{
+    display: flex;
+    justify-content: center;
+    column-gap: .8rem;
+    
+}
+.subbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: .8rem;
+    padding: 0rem .8rem;
+}
+
+.sec4img img{
+    height: 7rem;
+    margin-top: .4rem;
+    }
+
+    .sec4text h4{
+        font-size: .8rem;
+        font-weight: 700;
+    }
+    .sec4text h5{
+        font-size: .7rem;
+    }
+    
+    .sec4text h5 span{
+        color: #F58F07;
+        font-weight: 700;
+    }
+    
+    .sec4text h5 span{
+        color: #F58F07;
+        font-weight: 700;
+    }
+
+    .sec4buts{
+        margin-top: .8rem;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    } 
+    .sec4butsq{
+        margin-top: .5rem;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .box2{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+        border-radius: 1rem;
+        width: 27%;
+        background: rgb(255, 255, 255);
+        border: 1px solid #F58F07;
+        box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+        transition: 0.8s;
+    }
+
+    .subbox{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        /* column-gap: .5rem; */
+        padding: 0rem .4rem;
+    }
+
+    .icon12{
+        height: .8rem;
+    }
+
+/* ---------------section5------------------------ */
+.sec5main{
+    height: 15rem;
+    /* padding: 0rem 0rem; */
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+
+}
+.sec5img img{
+    height: 9.5rem;
+    transition: .8s;
+    border-radius: 1rem;
+}
+
+.sec5main .sec5text h1{
+    font-size: 1.5rem;
+    /* text-align: center; */
+    font-weight: 700;
+    color: #053f44;
+    /* text-shadow: 1px 1px 1px rgb(0, 0, 0); */
+    padding-bottom: .2rem;
+}
+.sec5text h4{
+    font-size: 1rem;
+    font-weight: 600;
+}
+.btnhomeloan{
+    margin-top: 1rem;
+    border:transparent;
+    padding: .5rem 1rem;
+    font-size: 12px;
+    border-radius: 1rem;
+    background-color: #053f44;
+    color: white;
+    font-weight: 500;
+    transition: .8s;
+}
+
+/* ---------sections6----------------- */
+.sec6main{
+    height: 15rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+
+}
+.sec6img img{
+    height: 9.5rem;
+    transition: .8s;
+    border-radius: 1rem;
+}
+
+.sec6main .sectext h1{
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #053f44;
+    padding-bottom: .2rem;
+}
+.sec6text h4{
+    font-size: 1rem;
+    font-weight: 600;
+}
+.btnbusiness{
+    margin-top: 1rem;
+    border:transparent;
+    padding: .5rem 1rem;
+    font-size: 12px;
+    border-radius: 1rem;
+    background-color: #053f44;
+    color: white;
+    font-weight: 500;
+    transition: .8s;
+}
+}
